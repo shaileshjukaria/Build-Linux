@@ -1,6 +1,6 @@
 # Linux Build Project
 
-This project is based on [Michiel Derhaeg's tutorial](https://github.com/MichielDerhaeg/build-linux) for building a minimal Linux system from scratch.
+This project is based on Linux for building a minimal Linux system from scratch.
 
 ## Structure
 
