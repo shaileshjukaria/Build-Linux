@@ -1,4 +1,4 @@
-Build yourself a Linux
+hiiiBuild yourself a Linux
 ======================
 
 Introduction
@@ -34,7 +34,7 @@ So just pick a version and download the tar.xz file and extract it with ``tar
 -xf linux-version.tar.xz``. To build the kernel we obviously need a compiler and
 some build tools. Installing ``build-essential`` on Ubuntu (or ``base-devel`` on
 Arch Linux) will almost give you everything you need. You'll also need to
-install ``bc`` for some reason.
+install ``bc`` for some reason. shailesh
 
 The next step is configuring your build, inside the untarred directory you do
 ``make defconfig``. This will generate a default config for your current cpu
