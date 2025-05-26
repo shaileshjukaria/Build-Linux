@@ -19,7 +19,7 @@ explained. You can also use that as reference if you'd like.
 
 The Linux Kernel
 ----------------
-
+(readme)
 The kernel is the core component of our operating system. It manages the
 processes and talks to the hardware on our behalf. You can retrieve a copy of
 the source code easily from [kernel.org](https://www.kernel.org/). There are
@@ -52,7 +52,7 @@ this: ``sed "s/=m/=y/" -i .config``. And we're done, so we can simply do ``make`
 build our kernel. Don't forget to add ``-jN`` with `N` the number of cores
 because this might take a while. When it's done, it should tell you where your
 finished kernel is placed. This is usually ``arch/x86/boot/bzImage`` in the
-linux source directory for Intel computers.
+linux source directory for Intel computers(readme).
 
 Other useful/interesting ways to configure the kernel are:
 
