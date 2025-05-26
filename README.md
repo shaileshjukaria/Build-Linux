@@ -19,7 +19,7 @@ explained. You can also use that as reference if you'd like.
 
 The Linux Kernel
 ----------------
-
+(readme)
 The kernel is the core component of our operating system. It manages the
 processes and talks to the hardware on our behalf. You can retrieve a copy of
 the source code easily from [kernel.org](https://www.kernel.org/). There are
